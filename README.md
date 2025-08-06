@@ -2,7 +2,7 @@ See below for the latest release of the different projects:
 
 <img src="https://drive.google.com/uc?export=view&id=1TLCNleCSQUtPJNkRXStc0kM8tWdHLrRl" alt="Screenshot" width="200"/>
 
-# 💾 How to Use
+<h1>How to Use</h1>
 
 <p>Download, add to flash drive, and run DataPuller.exe from flash drive on any laptop.</p>
 <p>Update: Now includes pulling data from the 'copied' folder:</p>
