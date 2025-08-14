@@ -1,4 +1,4 @@
-See below for the latest release of the different projects: 
+See below for the latest release of different projects: 
 
 <img src="https://drive.google.com/uc?export=view&id=1TLCNleCSQUtPJNkRXStc0kM8tWdHLrRl" alt="Screenshot" width="200"/>
 
