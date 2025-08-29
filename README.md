@@ -12,7 +12,7 @@ See below for the latest release of different projects:
 
 ---
 
-<img src="https://drive.google.com/uc?export=view&id=1eyhuL16xWBEWmToLItlzTl7ThcSwAZ1n" alt="ResearchObs Screenshot" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1eyhuL16xWBEWmToLItlzTl7ThcSwAZ1n" alt="ResearchObs Screenshot" width="300"/>
 
 <h1>CEBUS ResearchObs</h1>
 
