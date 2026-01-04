@@ -19,5 +19,5 @@ See below for the latest release of different projects:
 <p>Download CEBUS-ResearchObs.apk, add to device, and install.</p>
 <p>Update: Now includes a mass transfer option in Storage.</p>
 
-- [Download CEBUS ResearchObs v1.1.1 APK](https://github.com/jsaldana92/CEBUS-ResearchObs/releases/download/v.1.1.1/CEBUS-ResearchObs.v1.1.1.apk)
-- [Download CEBUS ResearchObs v1.1.1 ReadMe](https://github.com/jsaldana92/CEBUS-ResearchObs/releases/download/v.1.1.1/CEBUS-ResearchObs.v1.1.1.ReadMe.txt)
+- [Download CEBUS ResearchObs v1.2.0 APK](https://github.com/jsaldana92/CEBUS-ResearchObs/releases/download/v.1.2.0/CEBUS-ResearchObs.v1.2.0.apk)
+- [Download CEBUS ResearchObs v1.2.0 ReadMe](https://github.com/jsaldana92/CEBUS-ResearchObs/releases/download/v.1.2.0/CEBUS-ResearchObs.v1.2.0.ReadMe.txt)
