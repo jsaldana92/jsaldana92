@@ -1,4 +1,14 @@
-See below for the latest release of different projects: 
+See below for the latest release of different projects:
+
+<img src="https://drive.google.com/uc?export=view&id=1-QPFkZCyQjIjHAZmSuakF_pG6dldLxGb" alt="ResearchObs Beta Logo" width="300"/>
+
+<h1>How To Use</h1>
+
+<p>Download ResearchObs Beta APK, add to device, and install.</p>
+
+- [Download ResearchObs Beta v1.0.0 APK](https://github.com/jsaldana92/CEBUS-ResearchObs/releases/download/beta_v1.0.0/researchobs.beta.v1.0.0.apk)
+
+---
 
 <img src="https://drive.google.com/uc?export=view&id=1TLCNleCSQUtPJNkRXStc0kM8tWdHLrRl" alt="Screenshot" width="200"/>
 
