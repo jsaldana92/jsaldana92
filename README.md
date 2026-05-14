@@ -6,7 +6,7 @@ See below for the latest release of different projects:
 
 <p>Download ResearchObs Beta APK, add to device, and install.</p>
 
-- [Download ResearchObs Beta v1.1.0 APK](https://github.com/jsaldana92/CEBUS-ResearchObs/releases/download/beta_v1.1.0/researchpbs.beta.v1.1.0.apk)
+- [Download ResearchObs Beta v1.2.0 APK](https://github.com/jsaldana92/CEBUS-ResearchObs/releases/download/beta_v1.2.0/researchpbs.beta.v1.2.0.apk)
 
 ---
 
@@ -28,6 +28,7 @@ See below for the latest release of different projects:
 
 <p>Download CEBUS-ResearchObs.apk, add to device, and install.</p>
 <p>Update: Now includes a mass transfer option in Storage.</p>
+<p>Do not install unless you are sure you want the CEBUS version of ResearchObs</p>
 
 - [Download CEBUS ResearchObs v1.2.0 APK](https://github.com/jsaldana92/CEBUS-ResearchObs/releases/download/v.1.2.0/CEBUS-ResearchObs.v1.2.0.apk)
 - [Download CEBUS ResearchObs v1.2.0 ReadMe](https://github.com/jsaldana92/CEBUS-ResearchObs/releases/download/v.1.2.0/CEBUS-ResearchObs.v1.2.0.ReadMe.txt)
