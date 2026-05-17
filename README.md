@@ -6,7 +6,7 @@ See below for the latest release of different projects:
 
 <p>Download ResearchObs Beta APK, add to device, and install.</p>
 
-- [Download ResearchObs Beta v1.2.0 APK](https://github.com/jsaldana92/CEBUS-ResearchObs/releases/download/beta_v1.2.0/researchpbs.beta.v1.2.0.apk)
+- [Download ResearchObs Beta v2.0.0 APK](https://github.com/jsaldana92/CEBUS-ResearchObs/releases/download/beta_v2.0.0/researchobs.beta.v2.0.0.apk)
 
 ---
 
